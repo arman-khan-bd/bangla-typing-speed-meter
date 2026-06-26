@@ -122,14 +122,6 @@ sudo dpkg -i SpeedMeter-amd64.deb
 
 ### ৩. বিল্ড করুন
 
-| কমান্ড | কোথায় চলে | আউটপুট |
-|---|---|---|
-| `npm run package:win` | ✅ Windows | `dist-electron/*.exe` |
-| `npm run package:mac` | ✅ Mac only | `dist-electron/*.dmg` |
-| `npm run package:linux` | ✅ Linux/WSL only | `dist-electron/*.AppImage` |
-| `npm run package:linux-pkg` | ✅ Linux/WSL only | `dist-electron/*.deb`, `*.rpm` |
-
-
 ## 🛡️ তথ্য নিরাপত্তা ও লাইসেন্স (Privacy & License)
 
 *   **নিরাপদ সংযোগ:** এটি একটি লোকাল ইলেকট্রন অ্যাপ্লিকেশন। আপনার সমস্ত টাইপিং সেশন ডেটা আপনার ডিভাইসেই নিরাপদে থাকে। শুধু লিডারবোর্ডের জন্য ইউজারনেম এবং বেস্ট স্কোর ক্লাউডে সিঙ্ক করা হয়।
