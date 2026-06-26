@@ -6,11 +6,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/arman-khan-bd/typing-speed-meter-bn/releases/latest">
-    <img src="https://img.shields.io/github/v/release/arman-khan-bd/typing-speed-meter-bn?style=for-the-badge&color=06B6D4" alt="Latest Release" />
+  <a href="https://github.com/arman-khan-bd/bangla-typing-speed-meter/releases/latest">
+    <img src="https://img.shields.io/github/v/release/arman-khan-bd/bangla-typing-speed-meter?style=for-the-badge&color=06B6D4" alt="Latest Release" />
   </a>
-  <a href="https://github.com/arman-khan-bd/typing-speed-meter-bn/releases/latest">
-    <img src="https://img.shields.io/github/downloads/arman-khan-bd/typing-speed-meter-bn/total?style=for-the-badge&color=6366F1" alt="Total Downloads" />
+  <a href="https://github.com/arman-khan-bd/bangla-typing-speed-meter/releases/latest">
+    <img src="https://img.shields.io/github/downloads/arman-khan-bd/bangla-typing-speed-meter/total?style=for-the-badge&color=6366F1" alt="Total Downloads" />
   </a>
   <img src="https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-blue?style=for-the-badge&logo=windows&logoColor=white" alt="Platform Windows" />
   <img src="https://img.shields.io/badge/Built%20With-Electron%20%7C%20React%20%7C%20Vite-47A1EB?style=for-the-badge" alt="Tech Stack" />
@@ -23,7 +23,7 @@
 উইন্ডোজের জন্য সরাসরি ইন্সটলার ডাউনলোড করতে নিচের বাটনে ক্লিক করুন:
 
 <p align="center">
-  <a href="https://github.com/arman-khan-bd/typing-speed-meter-bn/releases/latest/download/SpeedMeter-Setup.exe" style="text-decoration: none;">
+  <a href="https://github.com/arman-khan-bd/bangla-typing-speed-meter/releases/latest/download/SpeedMeter-Setup.exe" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Download_for_Windows-Click_Here-06B6D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download SpeedMeter" height="50"/>
   </a>
 </p>
