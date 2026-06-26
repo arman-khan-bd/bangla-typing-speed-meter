@@ -29,7 +29,7 @@
 </p>
 
 > [!TIP]
-> সর্বশেষ আপডেট, রিলিজ নোট এবং অন্যান্য পোর্টেবল সংস্করণ দেখতে সরাসরি [GitHub Releases](https://github.com/arman-khan-bd/typing-speed-meter-bn/releases) পেজ ভিজিট করতে পারেন।
+> সর্বশেষ আপডেট, রিলিজ নোট এবং অন্যান্য পোর্টেবল সংস্করণ দেখতে সরাসরি [GitHub Releases](https://github.com/arman-khan-bd/bangla-typing-speed-meter/releases) পেজ ভিজিট করতে পারেন।
 
 ---
 
@@ -57,41 +57,13 @@
 
 ## ⚙️ ইনস্টলেশন গাইড (How to Install)
 
-১. **ডাউনলোড:** উপরে দেওয়া ডাউনলোড বাটন বা [Releases](https://github.com/arman-khan-bd/typing-speed-meter-bn/releases) থেকে `SpeedMeter-Setup.exe` ফাইলটি ডাউনলোড করুন।
+১. **ডাউনলোড:** উপরে দেওয়া ডাউনলোড বাটন বা [Releases](https://github.com/arman-khan-bd/bangla-typing-speed-meter/releases) থেকে `SpeedMeter-Setup.exe` ফাইলটি ডাউনলোড করুন।
 ২. **রান করুন:** ফাইলটিতে ডাবল ক্লিক করে ইন্সটল করা শুরু করুন।
 ৩. **SmartScreen সতর্কতা (যদি আসে):**
    * উইন্ডোজের সিকিউরিটি সার্টিফিকেটের কারণে উইন্ডোজ ডিফেন্ডার স্মার্টস্ক্রিন পপ-আপ দেখাতে পারে।
    * **More Info** বাটনে ক্লিক করুন।
    * **Run Anyway** বাটনে ক্লিক করে ইন্সটলেশন সম্পন্ন করুন।
 ৪. ইন্সটল সম্পন্ন হলে ডেস্কটপ শর্টকাট থেকে অ্যাপটি চালু করুন এবং আপনার ইউজারনেম দিয়ে টাইপিং শুরু করে দিন!
-
----
-
-## 🛠️ ডেভেলপার গাইড (Developer Setup)
-
-প্রজেক্টটি ক্লোন করে ডেভেলপমেন্ট মোডে রান করতে এবং কাস্টম বিল্ড তৈরি করতে নিচের কমান্ডগুলো অনুসরণ করুন:
-
-### ১. ক্লোন করুন
-```bash
-git clone https://github.com/arman-khan-bd/typing-speed-meter-bn.git
-cd typing-speed-meter-bn
-```
-
-### ২. ডিপেন্ডেন্সি ইন্সটল করুন
-```bash
-npm install
-```
-
-### ৩. ডেভেলপমেন্ট সার্ভার চালু করুন (React + Electron)
-```bash
-npm run electron:dev
-```
-
-### ৪. উইন্ডোজ এক্সিকিউটেবল (.exe) বিল্ড করুন
-```bash
-npm run package
-```
-বিল্ড করার পর এক্সিকিউটেবল ফাইলটি `dist-electron/` ফোল্ডারে তৈরি হবে।
 
 ---
 
