@@ -2,7 +2,8 @@
 > **বাংলা টাইপিং স্পিড টেস্ট এবং সরকারি চাকরির পরীক্ষার প্রস্তুতি বেঞ্চ**
 
 <p align="center">
-  <img src="public/icon.png" alt="SpeedMeter Logo" width="120" height="120" style="border-radius: 20%;" onerror="this.src='[https://images.icon-icons.com/827/PNG/512/keyboard_icon-icons.com_66524.png]'; this.onerror=null;"/>
+  
+  <img src="public/icon.png" alt="SpeedMeter Logo" width="120" height="120" style="border-radius: 20%;" onerror="this.src='https://images.icon-icons.com/827/PNG/512/keyboard_icon-icons.com_66524.png'; this.onerror=null;"/>
 </p>
 
 <p align="center">
