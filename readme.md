@@ -1,7 +1,7 @@
 # ⌨️ Bangla Typing Speed Meter (type://web)
 > **বাংলা টাইপিং স্পিড টেস্ট এবং সরকারি চাকরির পরীক্ষার প্রস্তুতি বেঞ্চ**
 
-* <a href="https://bn-typing.vercel.app">Web Version</a> 
+# > <a href="https://bn-typing.vercel.app">Web Version</a> 
 
 <p align="center">
   <img src="https://res.cloudinary.com/dj7pg5slk/image/upload/v1782464030/keyboard_icon-icons.com_66524_in18qf.webp" alt="SpeedMeter Logo" width="120" height="120"/>
