@@ -54,11 +54,11 @@
 
 <p align="center">
   <a href="https://github.com/arman-khan-bd/bangla-typing-speed-meter/releases/download/Beta/BnSpeedMeter_0.0.0_amd64.deb" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Download-.deb-Debian%2FUbuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Download .deb" height="45"/>
+    <img src="https://img.shields.io/badge/Download-.deb-DebianE95420?style=for-the-badge&logo=debian&logoColor=white" alt="Download .deb" height="45"/>
   </a>
   &nbsp;
   <a href="https://github.com/arman-khan-bd/bangla-typing-speed-meter/releases/download/Beta/BnSpeedMeter-0.0.0.x86_64.rpm" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Download-.rpm-Fedora%2FRHEL-294172?style=for-the-badge&logo=fedora&logoColor=white" alt="Download .rpm" height="45"/>
+    <img src="https://img.shields.io/badge/Download-.rpm-Fedora294172?style=for-the-badge&logo=fedora&logoColor=white" alt="Download .rpm" height="45"/>
   </a>
 </p>
 
