@@ -85,7 +85,7 @@
 
 | টাইপিং ড্যাশবোর্ড | ইন্টারেক্টিভ ভিজ্যুয়ালাইজার |
 | :---: | :---: |
-| <img src="https://via.placeholder.com/400x250/0f172a/06b6d4?text=SpeedMeter+Dashboard" width="100%" /> | <img src="https://via.placeholder.com/400x250/0f172a/6366f1?text=Keyboard+Visualizer" width="100%" /> |
+| <img src="/result.png" width="100%" /> | <img src="/dashboard.png" width="100%" /> | img src="/typing.png" width="100%" /> |
 
 ---
 
@@ -120,33 +120,6 @@ sudo dpkg -i SpeedMeter-amd64.deb
 # অথবা ডাবল ক্লিক করে Software Center দিয়ে ইন্সটল করুন
 ```
 
-**Fedora / RHEL / openSUSE (.rpm)**
-```bash
-# Fedora / RHEL:
-sudo dnf install SpeedMeter-x86_64.rpm
-# openSUSE:
-sudo zypper install SpeedMeter-x86_64.rpm
-```
-ইন্সটল সম্পন্ন হলে অ্যাপ মেনু বা টার্মিনাল থেকে `speedmeter` কমান্ড দিয়ে চালু করুন।
-
-> [!TIP]
-> ARM64 Linux (যেমন Raspberry Pi) এর জন্য `SpeedMeter-arm64.deb` বা `SpeedMeter-aarch64.rpm` ব্যবহার করুন।
-
----
-
-## 🛠️ ডেভেলপার গাইড (Developer Setup)
-
-### ১. ক্লোন ও ইন্সটল
-```bash
-git clone https://github.com/arman-khan-bd/bangla-typing-speed-meter.git
-cd bangla-typing-speed-meter
-npm install
-```
-
-### ২. ডেভেলপমেন্ট মোড (React + Electron)
-```bash
-npm run electron:dev
-```
 
 ### ৩. বিল্ড করুন
 
@@ -154,25 +127,9 @@ npm run electron:dev
 |---|---|---|
 | `npm run package:win` | ✅ Windows | `dist-electron/*.exe` |
 | `npm run package:mac` | ✅ Mac only | `dist-electron/*.dmg` |
-| `npm run package:linux` | ❌ Linux/WSL only | `dist-electron/*.AppImage` |
-| `npm run package:linux-pkg` | ❌ Linux/WSL only | `dist-electron/*.deb`, `*.rpm` |
+| `npm run package:linux` | ✅ Linux/WSL only | `dist-electron/*.AppImage` |
+| `npm run package:linux-pkg` | ✅ Linux/WSL only | `dist-electron/*.deb`, `*.rpm` |
 
-> [!IMPORTANT]
-> Linux ও macOS বিল্ড Windows থেকে করা যায় না। এর পরিবর্তে **GitHub Actions** ব্যবহার করুন।
-
-### ৪. GitHub Actions দিয়ে সব প্ল্যাটফর্মে Release করুন
-
-প্রজেক্টে `.github/workflows/release.yml` ফাইলটি রয়েছে। এটি **তিনটি** আলাদা runner-এ (Windows, macOS, Ubuntu) স্বয়ংক্রিয়ভাবে বিল্ড করে এবং GitHub Release-এ আপলোড করে।
-
-**Release করতে একটি git tag push করুন:**
-```bash
-git tag v1.0.0
-git push origin v1.0.0
-```
-
-এটি automatically সব platform-এর বিল্ড তৈরি করে [GitHub Releases](https://github.com/arman-khan-bd/bangla-typing-speed-meter/releases) পেজে আপলোড করবে।
-
----
 
 ## 🛡️ তথ্য নিরাপত্তা ও লাইসেন্স (Privacy & License)
 
