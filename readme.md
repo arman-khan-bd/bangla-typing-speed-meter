@@ -2,7 +2,7 @@
 > **বাংলা টাইপিং স্পিড টেস্ট এবং সরকারি চাকরির পরীক্ষার প্রস্তুতি বেঞ্চ**
 
 <p align="center">
-  ![SpeedMeter Logo](images/https://images.icon-icons.com/827/PNG/512/keyboard_icon-icons.com_66524.png)
+  ![SpeedMeter Logo](https://res.cloudinary.com/dj7pg5slk/image/upload/v1782464030/keyboard_icon-icons.com_66524_in18qf.webp)
 </p>
 
 <p align="center">
