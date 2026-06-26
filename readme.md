@@ -23,7 +23,7 @@
 উইন্ডোজের জন্য সরাসরি ইন্সটলার ডাউনলোড করতে নিচের বাটনে ক্লিক করুন:
 
 <p align="center">
-  <a href="https://github.com/arman-khan-bd/bangla-typing-speed-meter/releases/latest/download/SpeedMeter-Setup.exe" style="text-decoration: none;">
+  <a href="https://github.com/arman-khan-bd/bangla-typing-speed-meter/releases/download/Beta/BnSpeedMeter.Setup.0.0.0.exe" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Download_for_Windows-Click_Here-06B6D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download SpeedMeter" height="50"/>
   </a>
 </p>
