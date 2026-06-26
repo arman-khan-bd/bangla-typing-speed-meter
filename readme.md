@@ -35,11 +35,11 @@
 ### 🍎 macOS (Apple Silicon & Intel)
 
 <p align="center">
-  <a href="https://github.com/arman-khan-bd/bangla-typing-speed-meter/releases/latest/download/SpeedMeter-arm64.dmg" style="text-decoration: none;">
+  <a href="https://github.com/arman-khan-bd/bangla-typing-speed-meter/releases/download/Beta/BnSpeedMeter-0.0.0-arm64-Silicon.dmg" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Download_for_Mac-Apple_Silicon_(M1%2FM2%2FM3)-black?style=for-the-badge&logo=apple&logoColor=white" alt="Download for Mac Apple Silicon" height="50"/>
   </a>
   &nbsp;
-  <a href="https://github.com/arman-khan-bd/bangla-typing-speed-meter/releases/latest/download/SpeedMeter-x64.dmg" style="text-decoration: none;">
+  <a href="https://github.com/arman-khan-bd/bangla-typing-speed-meter/releases/download/Beta/BnSpeedMeter-0.0.0-Intel.dmg" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Download_for_Mac-Intel_(x64)-555555?style=for-the-badge&logo=apple&logoColor=white" alt="Download for Mac Intel" height="50"/>
   </a>
 </p>
@@ -47,17 +47,17 @@
 ### 🐧 Linux
 
 <p align="center">
-  <a href="https://github.com/arman-khan-bd/bangla-typing-speed-meter/releases/latest/download/SpeedMeter-x86_64.AppImage" style="text-decoration: none;">
+  <a href="https://github.com/arman-khan-bd/bangla-typing-speed-meter/releases/download/Beta/BnSpeedMeter-0.0.0.AppImage" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Download_AppImage-All_Distros_(x64)-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Download AppImage" height="50"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/arman-khan-bd/bangla-typing-speed-meter/releases/latest/download/SpeedMeter-amd64.deb" style="text-decoration: none;">
+  <a href="https://github.com/arman-khan-bd/bangla-typing-speed-meter/releases/download/Beta/BnSpeedMeter_0.0.0_amd64.deb" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Download-.deb-Debian%2FUbuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Download .deb" height="45"/>
   </a>
   &nbsp;
-  <a href="https://github.com/arman-khan-bd/bangla-typing-speed-meter/releases/latest/download/SpeedMeter-x86_64.rpm" style="text-decoration: none;">
+  <a href="https://github.com/arman-khan-bd/bangla-typing-speed-meter/releases/download/Beta/BnSpeedMeter-0.0.0.x86_64.rpm" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Download-.rpm-Fedora%2FRHEL-294172?style=for-the-badge&logo=fedora&logoColor=white" alt="Download .rpm" height="45"/>
   </a>
 </p>
