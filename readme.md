@@ -85,7 +85,7 @@
 
 | টাইপিং ড্যাশবোর্ড | ইন্টারেক্টিভ ভিজ্যুয়ালাইজার |
 | :---: | :---: |
-| <img src="/result.png" width="100%" /> | <img src="/dashboard.png" width="100%" /> | img src="/typing.png" width="100%" /> |
+| <img src="/result.png" width="100%" /> | <img src="/dashboard.png" width="100%" /> |
 
 ---
 
